@@ -1,0 +1,26 @@
+{
+  "name": "vrupak-portfolio-game",
+  "version": "1.0.0",
+  "description": "A mini game to run inside of my portfolio website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrupak/vrupak-portfolio-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrupak/vrupak-portfolio-game/issues"
+  },
+  "homepage": "https://github.com/vrupak/vrupak-portfolio-game#readme",
+  "dependencies": {
+    "babylonjs": "^8.7.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
